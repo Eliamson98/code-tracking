@@ -2,9 +2,9 @@
   "date": "2025-01-09",
   "projects": {
     "ME I MYSELF WINDSURF": {
-      "totalLinesAdded": 319,
+      "totalLinesAdded": 353,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\Admin\\AppData\\Roaming\\Windsurf\\User\\settings.json": [
           {
@@ -33,6 +33,36 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-09T23:34:52.070Z",
+            "fileName": "c:\\Users\\Admin\\AppData\\Roaming\\Windsurf\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "ME I MYSELF WINDSURF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "c:\\Users\\Admin\\Desktop\\ME I MYSELF WINDSURF\\.vscode\\settings.json": [
+          {
+            "timestamp": "2025-01-09T23:34:15.792Z",
+            "fileName": "c:\\Users\\Admin\\Desktop\\ME I MYSELF WINDSURF\\.vscode\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "ME I MYSELF WINDSURF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
