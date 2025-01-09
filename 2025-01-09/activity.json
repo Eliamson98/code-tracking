@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-09",
+  "projects": {
+    "ME I MYSELF WINDSURF": {
+      "totalLinesAdded": 319,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\Admin\\AppData\\Roaming\\Windsurf\\User\\settings.json": [
+          {
+            "timestamp": "2025-01-09T23:19:41.666Z",
+            "fileName": "c:\\Users\\Admin\\AppData\\Roaming\\Windsurf\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 312,
+            "linesRemoved": 0,
+            "projectName": "ME I MYSELF WINDSURF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-01-09T23:19:47.377Z",
+            "fileName": "c:\\Users\\Admin\\AppData\\Roaming\\Windsurf\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "ME I MYSELF WINDSURF",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "18": 1
+      },
+      "topFiles": [
+        "c:\\Users\\Admin\\AppData\\Roaming\\Windsurf\\User\\settings.json"
+      ],
+      "averageChangeSize": 159.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
